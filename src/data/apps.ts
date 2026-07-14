@@ -46,7 +46,7 @@ export const apps: App[] = [
     isFree: true,
     iconColors: ['#0088cc', '#229ed9'],
     iconSymbol: 'TG',
-    downloadUrl: 'https:ioair.link/p683hr',
+    downloadUrl: 'itms-services://?action=download-manifest&url=https://fupload.installonair.com/storage/manifest/fq4iAk.plist',
   },
   {
     id: '4',
